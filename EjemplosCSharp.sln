@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccesoADatos", "AccesoADato
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelos", "Modelos\Modelos.csproj", "{2327FBAD-DF27-4E56-9868-4A4FED34608C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlantillasForm", "PlantillasForm\PlantillasForm.csproj", "{CE6DAAE4-D834-4BEB-8968-2B2882BCEB85}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{2327FBAD-DF27-4E56-9868-4A4FED34608C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2327FBAD-DF27-4E56-9868-4A4FED34608C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2327FBAD-DF27-4E56-9868-4A4FED34608C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE6DAAE4-D834-4BEB-8968-2B2882BCEB85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE6DAAE4-D834-4BEB-8968-2B2882BCEB85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE6DAAE4-D834-4BEB-8968-2B2882BCEB85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE6DAAE4-D834-4BEB-8968-2B2882BCEB85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
